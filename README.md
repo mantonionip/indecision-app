@@ -2,4 +2,14 @@
 
 [Live Demo](https://mehdi-indecision-app.herokuapp.com/)
 
-##Description:
+## Description:
+
+### Built with:
+* HTML5
+* CSS3/ Sass
+* JavaScript
+* React
+* Express
+* Node
+* Babel
+* VSCode
